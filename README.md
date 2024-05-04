@@ -1,22 +1,101 @@
-
-## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/pth.1641) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pth_1641) 
-
-# 💻Tech Stack
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=pth-1641&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pth-1641&theme=synthwave&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pth-1641&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=pth-1641&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=pth-1641&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+    <img src="https://hits.sh/github.com/pth-1641/hits.svg?color=%23ffffffFF&extraCount=111111&label=Profile&labelColor=%2310b981FF&logo=youtubegaming&style=for-the-badge&view=total" />
+</div>
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?color=timeGradient&type=waving&section=footer&fontColor=36bcf7ff&height=120&animation=fadeIn&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&stroke=&strokeWidth=0&text=Ph%E1%BA%A1m+Tu%E1%BA%A5n+H%C3%B9ng&reversal=true" alt="" />
+</div>
+<h3 align="left">
+    
+</h3>
+<div align="center"><a href="https://fb.com/pth.1641">
+    <img src="https://api.iconify.design/logos/facebook.svg" alt="logos:facebook" height="30" />
+    </a>
+    <img width="10" />
+    <a href="https://linkedin.com/in/pth1641">
+    <img src="https://api.iconify.design/devicon/linkedin.svg" alt="devicon:linkedin" height="30" />
+    </a>
+    <img width="10" />
+    <a href="https://t.me/pth1641">
+    <img src="https://api.iconify.design/logos/telegram.svg" alt="logos:telegram" height="30" />
+    </a>
+    <img width="10" />
+    <a href="https://twitter.com/_pth1641">
+    <img src="https://api.iconify.design/logos/twitter.svg" alt="logos:twitter" height="30" />
+    </a>
+</div>
+<h1 align="left">
+    
+</h1>
+<div align="center">
+    <img src="https://readme-typing-svg.demolab.com?fontSize=20&repeat=false&multiline=false&duration=3000&color=%2336bcf7ff&background=%2300000000&pause=3000&width=140&height=50&font=Fira+Code&lines=%F0%9F%92%BBFront-end&vCenter=true&size=20" alt="" />
+</div>
+<div align="center"><img src="https://api.iconify.design/devicon/html5.svg" alt="devicon:html5" height="40" />
+    <img width="10" />
+    <img src="https://api.iconify.design/devicon/typescript.svg" alt="devicon:typescript" height="40" />
+    <img width="10" />
+    <img src="https://api.iconify.design/logos/vue.svg" alt="logos:vue" height="40" />
+    <img width="10" />
+    <img src="https://api.iconify.design/logos/javascript.svg" alt="logos:javascript" height="40" />
+    <img width="10" />
+    <img src="https://api.iconify.design/devicon/css3.svg" alt="devicon:css3" height="40" />
+    <img width="10" />
+    <img src="https://api.iconify.design/logos/nuxt-icon.svg" alt="logos:nuxt-icon" height="40" />
+    <img width="10" />
+    <img src="https://api.iconify.design/devicon/react.svg" alt="devicon:react" height="40" />
+    <img width="10" />
+    <img src="https://api.iconify.design/logos/preact.svg" alt="logos:preact" height="40" />
+    <img width="10" />
+    <img src="https://api.iconify.design/logos/shopify.svg" alt="logos:shopify" height="40" />
+    <img width="10" />
+    <img src="https://api.iconify.design/devicon/svelte.svg" alt="devicon:svelte" height="40" />
+    <img width="10" />
+    <img src="https://api.iconify.design/skill-icons/nextjs-light.svg" alt="skill-icons:nextjs-light" height="40" />
+</div>
+<h1 align="left">
+    
+</h1>
+<div align="center">
+    <img src="https://readme-typing-svg.demolab.com?fontSize=20&repeat=false&multiline=false&duration=4000&color=%2336bcf7ff&background=%2300000000&pause=2000&width=130&height=50&font=Fira+Code&lines=%F0%9F%9B%A1%EF%B8%8FBack-end&vCenter=true&size=20" alt="" />
+</div>
+<div align="center"><img src="https://api.iconify.design/devicon/nodejs.svg" alt="devicon:nodejs" height="40" />
+    <img width="10" />
+    <img src="https://api.iconify.design/logos/mongodb-icon.svg" alt="logos:mongodb-icon" height="40" />
+    <img width="10" />
+    <img src="https://api.iconify.design/skill-icons/aws-light.svg" alt="skill-icons:aws-light" height="40" />
+    <img width="10" />
+    <img src="https://api.iconify.design/logos/postgresql.svg" alt="logos:postgresql" height="40" />
+    <img width="10" />
+    <img src="https://api.iconify.design/logos/docker-icon.svg" alt="logos:docker-icon" height="40" />
+    <img width="10" />
+    <img src="https://api.iconify.design/devicon/go.svg" alt="devicon:go" height="40" />
+    <img width="10" />
+    <img src="https://api.iconify.design/logos/nestjs.svg" alt="logos:nestjs" height="40" />
+    <img width="10" />
+    <img src="https://api.iconify.design/skill-icons/expressjs-light.svg" alt="skill-icons:expressjs-light" height="40" />
+    <img width="10" />
+    <img src="https://api.iconify.design/logos/mysql.svg" alt="logos:mysql" height="40" />
+</div>
+<h1 align="left">
+    
+</h1>
+<div align="center">
+    <img src="https://readme-typing-svg.demolab.com?fontSize=20&repeat=false&multiline=false&duration=5000&color=%2336bcf7ff&background=%2300000000&pause=1000&width=180&height=50&font=Fira+Code&lines=%F0%9F%93%88Github+Stats&vCenter=true&size=20" alt="" />
+</div>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=pth-1641&theme=tokyonight&hide_border=true&show_icons=true&hide_title=false&disable_animations=false&hide_rank=false&rank_icon=default&hide=&show=&locale=EN" />
+</div>
+<div align="center">
+    <img src="https://streak-stats.demolab.com?user=pth-1641&theme=tokyonight&hide_border=true&disable_animations=false&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&mode=daily&locale=EN" />
+</div>
+<div align="center">
+    <img src="https://github-trophies.vercel.app?username=pth-1641&theme=tokyonight&title=MultiLanguage%2CLongTimeUser%2CNewUser%2CStars%2CFollowers%2CCommits%2CRepositories%2CIssues%2CPullRequest%2CAchieveSuperRank%2CAncientUser%2COrganizations&no-frame=true" />        
+</div>
+<h1 align="left">
+    
+</h1>
+<div align="center">
+    <img src="https://readme-typing-svg.demolab.com?fontSize=20&repeat=false&multiline=false&duration=5000&color=%2336bcf7ff&background=%2300000000&pause=1000&width=140&height=50&font=Fira+Code&lines=%E2%9C%8D%EF%B8%8FDev+Quote&vCenter=true&size=20" alt="" />
+</div>
+<div align="center">
+      <img src="https://quotes-github-readme.vercel.app/api?theme=tokyonight&border=true&type=horizontal" alt="" />
+</div>
